@@ -23,7 +23,7 @@ Install [node](https://nodejs.org/it/download/)
 
 **Sander** - [Github](https://github.com/Sander972)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/MatteoPizzinato) who participated in this project.
 
 ## License
 
