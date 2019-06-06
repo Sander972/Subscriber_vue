@@ -1,16 +1,15 @@
 {
-  "name": "subscriber_vue",
-  "version": "0.0.2",
-  "description": "subscriber mqtt serving dinamic html",
-  "main": "main.js",
+  "name": "simple-mqtt-dashboard-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "tuamamma",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "live-server": "^1.2.1",
-    "mqtt": "^3.0.0",
-    "vue": "^2.6.10"
+    "live-server": "^1.2.1"
   }
 }
