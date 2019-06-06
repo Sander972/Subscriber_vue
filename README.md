@@ -21,7 +21,7 @@ Install [node](https://nodejs.org/it/download/)
 
 ## Authors
 
-**Sander** - [PurpleBooth](https://github.com/Sander972)
+**Sander** - [Github](https://github.com/Sander972)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
