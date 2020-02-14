@@ -6,12 +6,12 @@ Sort-of web app that subscribe to a topic and print the message on the screen
 
 Run inside the project folder:
 ```
-npm install
+npm i
 ```
 
 to serve the app type:
 ```
-node ./server.js
+node .\server.js
 ```
 then the app is served on [localhost](127.0.0.1:8181) 
 
@@ -23,7 +23,7 @@ Install [node](https://nodejs.org/it/download/)
 
 **Sander** - [Github](https://github.com/Sander972)
 
-See also the list of [contributors](https://github.com/MatteoPizzinato) who participated in this project.
+**Piz** - [Github](https://github.com/MatteoPizzinato)
 
 ## License
 
